@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Materials/MeshCube.mtl</file>
+        <file>Materials/MeshCube.obj</file>
+        <file>Materials/MeshHouse.mtl</file>
+        <file>Materials/MeshHouse.obj</file>
+        <file>Materials/MeshSphere.mtl</file>
+        <file>Materials/MeshSphere.obj</file>
+        <file>Materials/teapot.obj</file>
+        <file>Materials/violin_case.obj</file>
+    </qresource>
+</RCC>

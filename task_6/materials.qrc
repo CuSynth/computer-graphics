@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Materials/Earth1k.jpg</file>
+        <file>Materials/Earth8k.jpg</file>
+        <file>Materials/Earth8k_night.jpg</file>
+        <file>Materials/Earth8k_normal.jpg</file>
+        <file>Materials/Earth_Albedo.jpg</file>
+        <file>Materials/Earth_NormalMap.jpg</file>
+        <file>Materials/MeshCube.mtl</file>
+        <file>Materials/MeshCube.obj</file>
+        <file>Materials/MeshHouse.mtl</file>
+        <file>Materials/MeshHouse.obj</file>
+        <file>Materials/MeshSphere.mtl</file>
+        <file>Materials/MeshSphere.obj</file>
+        <file>Materials/Moon.obj</file>
+        <file>Materials/MoonColor.jpg</file>
+        <file>Materials/MoonDis.jpg</file>
+    </qresource>
+</RCC>
